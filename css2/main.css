@@ -1,0 +1,154 @@
+
+.box{
+background-color: #602323;
+font-family: Arial ;
+position: relative; 
+width: 1110px;
+height: 672px;
+border: 1px solid black;
+}
+	.sorocov{
+position: absolute;
+left: 0;
+bottom: 0px;
+
+}
+.pic {
+	position:relative;
+  left: 94px;
+	}
+
+  .pic1{
+        margin-left: 95px;
+   
+  }
+  .pic2{
+   
+    left: 90;
+  }
+  .pic3{
+    left: 59;
+  }
+	.cotainer {
+		height: 70px;
+		width: 1110px;
+
+	}
+ button {
+  border: none;
+  outline: none;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 18px;
+  background: #b84443;
+  padding: 10px 50px 20px 50px;
+  border-radius: 12px;
+  }
+  .a1{
+    position: absolute;
+    text-decoration: none;
+    color: #000000;
+     left: 182px;
+    top: 324px;
+  }
+  .a2{
+    position: absolute;
+    text-decoration: none;
+    color: #000000;
+    top: 324px;
+    left: 565px;
+
+    }
+    .a3{
+    position: absolute;
+    text-decoration: none;
+    color: #000000;
+        top: 324px;
+    left: 924px;
+
+    }
+  .b1{
+  	
+  	    position: absolute;
+    left: 103px;
+    top: 291px;
+  }
+.b2{
+	position: absolute;
+	left: 477px;
+    top: 291px;
+  }
+ .b3{
+ 	position: absolute;
+ 	top: 291px;
+    left: 844px;
+ }
+ .lamp1{
+          margin: 0px -32px 125px -47px;
+ }
+ .lamp0{
+    margin-left: -47px;
+    margin-right: -32px;
+    margin-bottom: 125px;
+ }
+ .cloud{
+ 	 position: absolute;
+    left: 260px;
+    top: 401px;}
+.zad {
+	position: absolute;
+    left: 525px;
+    bottom: 36px;
+}
+.text{
+font-size: 20px;
+}
+.nav {
+	    position: absolute;
+   left: 330px;
+    bottom: 150px;
+    text-align: center;
+
+}
+
+.vistav{
+  position: absolute;
+  bottom: 93px;
+  right: 90px;
+
+}
+ #modal1{
+    display:none;
+    font-size: 40px;
+    width: 776px;
+    height: 550px;
+}
+#modal2{
+    display:none;
+    font-size: 40px;
+    width: 770px;
+    height: 550px;
+}
+#modal3{
+    display:none;
+    font-size: 40px;
+    width: 770px;
+    height: 550px;
+  }
+.okno {
+  position: absolute;
+  left: 150px;
+}
+.okno1{
+  position: absolute;
+  left: 100px;
+}
+.happy{
+  position: absolute;
+  bottom: 0 ;
+}
+.sad{
+   position: absolute;
+  bottom: 0 ;
+  left: 0;
+}
